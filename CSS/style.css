@@ -1,0 +1,12 @@
+div {
+    width: 1200px;
+    height: 500px;
+    border: solid;
+    border-color: rgb(190 180 170);
+    background: repeating-linear-gradient(90deg, rgb(190, 180, 170), transparent 0.55%, transparent 10.563%, rgb(190, 180, 170)11.113%),
+    repeating-linear-gradient(0deg, rgb(190, 180, 170), transparent 1.37%, transparent 23.1%, rgb(190, 180, 170)25.1%),
+    radial-gradient(at 80% 15%, rgb(255 255 255), rgb(247 247 244), rgb(240 240 236), rgb(232 232 230), rgb(226 226 230), rgb(223 223 230), rgb(220 220 230));  
+                
+
+    
+    }
